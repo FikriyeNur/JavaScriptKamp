@@ -18,6 +18,7 @@ for (let i = 0; i  < konutKredileri.length; i ++) {
     //console.log(element)
 }
 
+/// Ödev Videosu Başlangıç
 let student = {id:1, name:'Fikriye Nur'}
 
 function save(puan = 10, ogrenci) {
@@ -74,3 +75,4 @@ let {id, cname} = category;
 // console.log(id);
 // console.log(cname); 
 
+/// Ödev Videosu Bitiş
